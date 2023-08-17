@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GrzegorzPacewicz
-- 👀 I’m interested in speedcubing
+- 👀 I’m interested in Rubik's Cube
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Just email me: g.pacewicz@gmail.com
